@@ -28,10 +28,7 @@ The algorithm fits a line (or hyperplane in higher dimensions) to the dataset. T
 
 **Cost Function:**
 Linear Regression uses a cost function, such as Mean Squared Error (MSE), to measure the accuracy of predictions. The algorithm optimizes the coefficients to minimize this error.
-                                 
-​
-
-<h2>Decision Tree:</h2>
+​<h2>Decision Tree:</h2>
 
 A decision tree (DT) is a supervised learning technique that is mostly used for classification tasks and is also helpful in discovering relevant features and patterns in large databases, thus serving as a powerful means of discrimination and predictive modeling [19]. Each node in a Decision tree, or Decision node and Leaf node, consists of a test for an attribute, which creates one of the two branches in the tree that descends from that node.
 
@@ -44,6 +41,7 @@ Algorithm-
 • The highest information gain is calculated for each attribute in each node of tree.
 
 • Repeat step 2 to form a subtree using the feature which is not used in above node.
+
 
 
 <h2>Random Forest Classifier:</h2>
